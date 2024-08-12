@@ -1,16 +1,21 @@
-## Hi there 👋
+Bem vindo ao meu perfil
 
-<!--
-**GHDESBJC/GHDESBJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Gustavo Brazil
 
-Here are some ideas to get you started:
+Sou aluno da escola E.E. PEI JOÃO CLIMACO DE CAMARGO PIRES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizamos como ferramenta nas aulas de robótica os cursos do Alura
+
+Estou desenvolvendo linguagem JAVASCRIPT
+
+* Utilizo esse espaço para organização e compartilhamento dos meus projetos
+
+Você pode entrar em contato comigo:
+
+00001116218987sp@al.educacao.sp.gov.br
+
+
+
+
+!{<img src="https://media1.tenor.com/m/b86-K2lhpBEAAAAd/roger-guedes-corinthians-x-athletico-pr.gif" alt="a group of soccer players on a field with an ad for bet nacional behind them"/>![image](https://github.com/user-attachments/assets/97e7faff-8adc-4125-bc10-11f1f6d78648)
+}
